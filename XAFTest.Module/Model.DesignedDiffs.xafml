@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="XAFTest">
+  <NavigationItems>
+    <Items>
+      <Item Id="@42b24aa5-365a-4a0d-a104-6a0ef3ab545e" ViewId="Person_ListView" IsNewNode="True" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="16.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options CollectionsEditMode="Edit" />
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="16.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="16.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Person_DetailView">
+      <Items>
+        <PropertyEditor Id="Email" PropertyEditorType="XAFTest.Module.Web.Editors.ASPxEmailsTokenListEditor" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>
