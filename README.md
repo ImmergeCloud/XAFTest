@@ -18,8 +18,6 @@ Below is the basic writeup of how you will be receiving work items. I was lookin
 
 # Additonal Information and Instructions:
 
-Here is the GitHub Repository with the basic XAF solution: https://github.com/ImmergeCloud/XAFTest
-
 When developing a new Property Editor, the XAF framework provides a way to assign and assess the ASPx controls very similar to a standard WebForm page.
 
 We have already integrated a custom ASPx control to help manage multiple email addresses.
